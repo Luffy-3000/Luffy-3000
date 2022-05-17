@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Luffy-3000
 - 👀 I’m interested in Data science, Machine learning, Artificial intelligence
-- 🌱 I’m currently learning Data science, ML algorithms and neural networks
-- 💞️ I’m looking to collaborate on Short term small projects on computer vision as a small project.
+- 🌱 I’m currently learning Data science - python libraries
 
 
 <!---
